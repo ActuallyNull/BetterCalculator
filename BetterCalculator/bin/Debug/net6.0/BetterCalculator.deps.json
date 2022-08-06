@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BetterCalculator/1.0.0": {
+        "dependencies": {
+          "DotLiquid": "2.2.656"
+        },
+        "runtime": {
+          "BetterCalculator.dll": {}
+        }
+      },
+      "DotLiquid/2.2.656": {
+        "runtime": {
+          "lib/netstandard2.0/DotLiquid.dll": {
+            "assemblyVersion": "2.2.656.0",
+            "fileVersion": "2.2.656.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/it/DotLiquid.resources.dll": {
+            "locale": "it"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BetterCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotLiquid/2.2.656": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-39WWowDRiPIe7If+tEz2YqGzn5YFjwBU55jy7LGlHfDe80PrRYpZMghu/PeS46sIjPMvVVghV65NCAVat02W8w==",
+      "path": "dotliquid/2.2.656",
+      "hashPath": "dotliquid.2.2.656.nupkg.sha512"
+    }
+  }
+}

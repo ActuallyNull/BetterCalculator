@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NGRjhrhK4mRg9tsJGFOMDbT8mmf7LtVhDngnPvWVtOEMlHER5H0WFS4kzmWs66o7g7Vi4wJnyqoJynrexQ3JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rayan\\source\\repos\\BetterCalculator\\BetterCalculator\\BetterCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rayan\\.nuget\\packages\\dotliquid\\2.2.656\\dotliquid.2.2.656.nupkg.sha512"
+  ],
+  "logs": []
+}
